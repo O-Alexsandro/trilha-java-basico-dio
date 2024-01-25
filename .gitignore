@@ -28,4 +28,4 @@
 *.controle-fluxo/README.md
 *.controle-candidatos/.vscode/settings.json
 *.controle-fluxo-desafio/.vscode/settings.json
-*..idea/workspace.xml
+.idea/workspace.xml
