@@ -1,7 +1,7 @@
 package one.digitalinnovation;
 
-public class No {
 
+public class No {
     private Object object;
     private No refNo;
 
