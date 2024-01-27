@@ -27,4 +27,8 @@ public class No {
                 "object=" + object +
                 '}';
     }
+
+    public Object getObject() {
+        return object;
+    }
 }

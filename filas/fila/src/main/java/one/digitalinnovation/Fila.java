@@ -22,7 +22,7 @@ public class Fila {
                 }else {
                     break;
                 }
-            }
+            }   return primeiroNo;
         }
         return null;
     }
