@@ -1,6 +1,5 @@
 package one.digitalinnovation;
 
-
 public class No {
     private Object object;
     private No refNo;
@@ -22,8 +21,8 @@ public class No {
         this.refNo = refNo;
     }
 
-    @java.lang.Override
-    public java.lang.String toString() {
+    @Override
+    public String toString() {
         return "No{" +
                 "object=" + object +
                 '}';
