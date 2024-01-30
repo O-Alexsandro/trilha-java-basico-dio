@@ -29,3 +29,7 @@
 *.controle-candidatos/.vscode/settings.json
 *.controle-fluxo-desafio/.vscode/settings.json
 .idea/workspace.xml
+stack/.idea/vcs.xml
+stack/.idea/misc.xml
+stack/.idea/modules.xml
+stack/.idea/stack.iml
