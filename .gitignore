@@ -33,3 +33,6 @@ stack/.idea/vcs.xml
 stack/.idea/misc.xml
 stack/.idea/modules.xml
 stack/.idea/stack.iml
+*.xml
+*.iml
+Desafio-dio/.idea/.name
